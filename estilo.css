@@ -1,4 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
+.texto {
+	background-color: red;
+color: white;
+}
 
 h1 {background-color: green;}
